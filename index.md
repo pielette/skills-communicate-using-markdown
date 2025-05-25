@@ -1,7 +1,8 @@
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
+# Welcome to my markdown page!
+## This is where `<h2>` goes
 
 ###### This is an `<h6>` header, which is the smallest
 
 ##### I added headers to the file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
